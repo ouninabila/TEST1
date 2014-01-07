@@ -1,0 +1,7 @@
+198111,127.0.0.1,GET,http://localhost/phpsymfony/web/app_dev.php/,1389128824,
+5a2ef8,127.0.0.1,GET,http://localhost/phpsymfony/web/app_dev.php/_configurator/,1389128839,
+266931,127.0.0.1,GET,http://localhost/phpsymfony/web/app_dev.php/_configurator/step/0,1389128846,
+27748d,127.0.0.1,POST,http://localhost/phpsymfony/web/app_dev.php/_configurator/step/0,1389128906,
+36a951,127.0.0.1,GET,http://localhost/phpsymfony/web/app_dev.php/_configurator/step/1,1389128919,
+9c6b8d,127.0.0.1,POST,http://localhost/phpsymfony/web/app_dev.php/_configurator/step/1,1389128933,
+d63d9e,127.0.0.1,GET,http://localhost/phpsymfony/web/app_dev.php/_configurator/final,1389128944,
